@@ -57,3 +57,8 @@ python app.py
 - SQLite: 数据库
 - Bootstrap: 前端UI框架
 - Werkzeug: 密码哈希处理 
+
+
+## 题目回答相关
+题目1/2分别在question1/question2.md中
+题目3修改了这个项目的结构 将页面写入对应蓝图中，将model的类文件单独存放，也为了蓝图修改了相关的url，写了一个config来配置
